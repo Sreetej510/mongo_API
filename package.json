@@ -1,0 +1,16 @@
+{
+  "name": "mongo_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Omega",
+  "license": "ISC",
+  "dependencies": {
+    "@okta/jwt-verifier": "2.3",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.1"
+  }
+}
